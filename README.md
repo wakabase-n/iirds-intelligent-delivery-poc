@@ -1,4 +1,5 @@
-# iiRDS Intelligent Delivery PoC
+# 価値ある技術情報をiiRDSで届ける
+## iiRDS Intelligent Delivery PoC
 
 本リポジトリは、テクニカルコミュニケーションおよび情報設計（IA）における国際標準規格「iiRDS」を活用した、知的情報デリバリー（Intelligent Delivery）の実証実験（PoC）公式リソースページです。
 
