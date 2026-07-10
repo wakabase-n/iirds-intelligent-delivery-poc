@@ -34,6 +34,8 @@
 
 本リポジトリ、およびその中に含まれるすべての構造化資産、プロンプト、サンプルデータは、 **クリエイティブ・コモンズ 表示 - 非営利 4.0 国際 ライセンス（CC BY-NC 4.0）** の下で提供しています。
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 * **表示 (Attribution)**：データの共有や改変の際は、必ず著作者のクレジットを明記してください。
 * **非営利 (NonCommercial)**：本リポジトリの成果物をそのまま商用目的（営利サービスへの組み込み、有償コンサルティングへの流用など）で使用することはできません。
 
