@@ -1,4 +1,5 @@
-# iiRDS Intelligent Delivery PoC（2026年8月号 実証検証データセット）
+# 価値ある技術情報をiiRDSで届ける
+## iiRDS Intelligent Delivery PoC（2026年8月号）
 
 本リポジトリは、テクニカルコミュニケーションおよびAIガバナンスにおける「V3（従来のパッキング型RAG）」と「V4（iiRDS Atomic Data v1.2 ＋ ナレッジグラフによるHybrid RAG）」の比較検証、および「根拠追跡型例外管理監査」の再現実験用データ一式を公開している公式リポジトリです。
 
