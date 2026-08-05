@@ -1,8 +1,8 @@
 
-ソース1(原文)：manual_v3_RAG_Optimized.md
-ソース2(グラフ)：manual_KnowledgeGraph.md
+- ソース1(原文)：manual_v3_RAG_Optimized.md 
+- ソース2(グラフ)：manual_KnowledgeGraph.md
 
-回答する際は、必ず `iiRDS_Knowledge_Graph.txt`（ソース2） に記載されたエンティティ間の関係性（どの機種に、どの工具や安全具が紐づいているか）を最優先してください。
+回答する際は、必ず `manual_KnowledgeGraph.md`（ソース2） に記載されたエンティティ間の関係性（どの機種に、どの工具や安全具が紐づいているか）を最優先してください。
 もしマニュアル原文（ソース1）に記載があっても、グラフ（ソース2）でその機種に線が繋がっていない工具や手順は、その機種には適用できないものとして回答してください。
  
 **質問**
