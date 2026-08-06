@@ -17,9 +17,9 @@
 * `Confidence`: 判定の自信度（0-100%）
 * `Reasoning`: なぜそのTopicTypeやInformationSubjectを選んだのか、iiRDS定義の `indicators` や `what_it_is_not` を具体的に引用して論理的に説明してください。
 
----
 # iiRDS定義 (Knowledge Base)
 
+```
 {
   "meta": {
     "source": "Guide for the Standardized Use of iiRDS",
@@ -318,7 +318,7 @@
     }
   ]
 }
----
+```
 
 # 対象ドキュメント
 # 10_スマート・ポンプ SP-Xシリーズ　取扱説明書 3章
