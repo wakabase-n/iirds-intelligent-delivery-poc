@@ -30,7 +30,7 @@
 ---
 
 # iiRDS定義 (Knowledge Base)
-
+```
 {
   "meta": {
     "source": "Guide for the Standardized Use of iiRDS",
@@ -109,7 +109,7 @@
     }
   ]
 }
-
+```
 ---
 
 # 対象ドキュメント
